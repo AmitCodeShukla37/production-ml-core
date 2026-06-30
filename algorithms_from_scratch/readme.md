@@ -1,0 +1,1 @@
+This directory is for implementing ML algorithms from scratch 
